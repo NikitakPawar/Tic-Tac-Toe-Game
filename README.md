@@ -22,6 +22,8 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. It allo
 #Game Overview
 ![game](https://github.com/user-attachments/assets/69fa218e-e8be-48af-951c-fdb746a3d5e7)
 
+![game1](https://github.com/user-attachments/assets/fe5540ef-2936-4f30-a281-b8a6806d366c)
+
 #Winning X
 ![winner X](https://github.com/user-attachments/assets/57b54721-3d74-4d0c-a932-84bb8d4c0ab8)
 
