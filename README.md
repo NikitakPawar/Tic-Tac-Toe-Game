@@ -17,12 +17,13 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. It allo
 4. The game ends when a player has three marks in a row, column, or diagonal, or when all cells are filled with no winner.
 5. Click the "Reset Game" button to start a new game.
 
-## Installation
+#screenshots:
 
-No installation is required. Simply clone this repository and open the `index.html` file in your browser.
+#Game Overview
+![game](https://github.com/user-attachments/assets/69fa218e-e8be-48af-951c-fdb746a3d5e7)
 
-```bash
-git clone https://github.com/NikitaKPawar/tic-tac-toe-game.git
+#Winning X
+![winner X](https://github.com/user-attachments/assets/57b54721-3d74-4d0c-a932-84bb8d4c0ab8)
 
-**Adding a Screenshot**:
-
+#Winning O 
+![winner O](https://github.com/user-attachments/assets/aa7387fb-4aa3-49ee-91d8-2f912866220f)
